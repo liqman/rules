@@ -1,5 +1,5 @@
 # 内容：常用需代理网站
-# 数量：33条
+# 数量：34条
 DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,wnflb2023.com
 DOMAIN-SUFFIX,fuliba2023.net
@@ -34,3 +34,4 @@ DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,xeton.dev
 DOMAIN-SUFFIX,avp76.net
 DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,sntp.dev
