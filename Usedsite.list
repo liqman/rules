@@ -23,15 +23,16 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,javbus.com
 DOMAIN-SUFFIX,freejavbt.com
 DOMAIN-SUFFIX,ideapocket.com
-DOMAIN-SUFFIX,huacloud.xyz
-DOMAIN-SUFFIX,datapipe.top
-DOMAIN-SUFFIX,datapipe.top
 DOMAIN-SUFFIX,wcc.best
 DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,avp76.net
+DOMAIN-SUFFIX,hdhive.com
+## 机场地址
+DOMAIN-SUFFIX,sntp.dev
+DOMAIN-SUFFIX,jsmao.cloud
 DOMAIN-SUFFIX,wcc.best
 DOMAIN-SUFFIX,api-huacloud.dev
 DOMAIN-SUFFIX,nexconvert.com
 DOMAIN-SUFFIX,xeton.dev
-DOMAIN-SUFFIX,avp76.net
-DOMAIN-SUFFIX,hdhive.com
-DOMAIN-SUFFIX,sntp.dev
+DOMAIN-SUFFIX,huacloud.xyz
+DOMAIN-SUFFIX,datapipe.top
